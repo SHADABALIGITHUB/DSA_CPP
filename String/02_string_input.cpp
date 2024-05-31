@@ -13,6 +13,8 @@ int main(){
     cin.getline(str,50);
     cout<<str<<endl;
 
+    
+
 
 
    
