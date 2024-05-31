@@ -10,6 +10,10 @@ int main(){
     cin.getline(str1,50);
     
     cout<<strcat(str,str1)<<endl;
+
+
+    //  n index concat only
+    cout<<strncat(str,str1,5)<<endl;
                  
     return 0;
 }
