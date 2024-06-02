@@ -5,8 +5,11 @@ using namespace std;
 int main(){
                     
      string  str;
-     getline(cin,str);
+      cout<<"Enter The string : "<<endl;
      
+     getline(cin,str);
+
+    
     //  fucntion 
 
     // 1. str.length() : return the length of the string
@@ -129,7 +132,7 @@ int main(){
 
     // 22. str.compare() : compare the string
 
-    cout<<str.compare("Hello")<<endl;
+    cout<<str.compare("aello")<<endl;
 
     // 23. str.c_str() : return the c style string
 
