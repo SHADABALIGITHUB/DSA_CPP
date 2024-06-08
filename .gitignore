@@ -1,0 +1,38 @@
+# Ignore object files
+*.o
+*.obj
+
+# Ignore static libraries
+*.a
+*.lib
+
+# Ignore dynamic/shared libraries
+*.so
+*.dll
+*.dylib
+
+# Ignore executable files
+*.exe
+# No extension for Unix/Linux executables (optional)
+a.out
+
+# Ignore build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore log and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore system specific files
+.DS_Store
+Thumbs.db
