@@ -5,7 +5,7 @@
 # Ignore static libraries
 *.a
 *.lib
-
+*.class
 # Ignore dynamic/shared libraries
 *.so
 *.dll
