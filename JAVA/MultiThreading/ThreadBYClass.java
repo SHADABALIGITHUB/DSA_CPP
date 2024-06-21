@@ -8,7 +8,7 @@ class A extends Thread{
       }
 
 }
-public class Thread_BY_Class{
+public class ThreadBYClass{
       public static void main(String args[]){
       A ob=new A();
       ob.start();

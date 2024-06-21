@@ -1,7 +1,9 @@
+package JAVANEWFEATURES;
+
 interface Hello{
     void say(String msg);
 }
-public class My implements Hello{
+public class FunctionalInterfaceFile implements Hello{
 
     public void say(String msg){
          
@@ -10,7 +12,7 @@ public class My implements Hello{
     }
     public static void main(String[] args) {
         
-          My ob=new My();
+          FunctionalInterfaceFile ob=new FunctionalInterfaceFile();
           ob.say("I am Happy");
     }
 

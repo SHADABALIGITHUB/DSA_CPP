@@ -4,7 +4,7 @@ class A implements Runnable{
       }
 }
 
-public class Thread_BY_Constructor {
+public class ThreadBYConstructor {
       public static void main(String[] args) {
         
      
