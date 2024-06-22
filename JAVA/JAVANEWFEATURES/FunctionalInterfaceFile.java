@@ -1,4 +1,3 @@
-package JAVANEWFEATURES;
 
 interface Hello{
     void say(String msg);
