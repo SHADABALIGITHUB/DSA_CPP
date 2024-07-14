@@ -37,3 +37,5 @@ a.out
 .DS_Store
 Thumbs.db
 __pycache__
+.replit
+.ccls-cache/
