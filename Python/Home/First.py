@@ -1,6 +1,7 @@
-a=20
+a="true"
 
-def table(n):
-    for i in range(1,11):
-        print(f"{n}x {i} = {n*i}")
-table(a)
+while(a):
+    if a:
+      i=0
+    elif 1:
+      print(i)
