@@ -77,6 +77,7 @@ print(b)
 c=bytearray(5)
 print(c)
 d=memoryview(bytes(5))
+playgame()
 print(d)
 
 #range data type
