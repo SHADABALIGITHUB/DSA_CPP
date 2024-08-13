@@ -21,11 +21,11 @@
 //   default method in interface 
 
 
-interface A{
-    void hide();
-    default show(user){
-        System.out.println(user);
-    }
-}
+// interface A{
+//     void hide();
+//     default show(user){
+//         System.out.println(user);
+//     }
+// }
 
-public class 
+// public class 
