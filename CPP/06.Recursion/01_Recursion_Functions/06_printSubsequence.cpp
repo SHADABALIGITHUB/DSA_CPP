@@ -9,11 +9,12 @@ void subsequence(int index,vector<int> &d,vector<int>&a,int n){
 
             cout<<d[i]<<" ";
         }
-       cout<<"]";
+       
         if(d.size()==0){
             
              cout<<"emppty"<<" ";
         }
+        cout<<"]";
         return;
 
         
@@ -34,20 +35,7 @@ void subsequence(int index,vector<int> &d,vector<int>&a,int n){
       
 }
 
-void subsequenceLoop(vector<int>&a,int n,vector<int>&d){
-     
-      for(int i=0;i<n;i++){
 
-         
-            
-         
-           
-                 
-                
-      }
-
-      
-}
 int main(){
 
     vector<int> a={3,1,2};
@@ -57,6 +45,8 @@ int main(){
 
 
 
+
+    cout<<endl;
 
 
                  
