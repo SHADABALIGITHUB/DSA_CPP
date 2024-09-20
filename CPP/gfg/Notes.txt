@@ -1,0 +1,5 @@
+
+   1.  Learn Distance in Plain  -- Topics  Functions like Sqrt and round  in C++
+
+   2. Namespace scopes in cpp 
+
