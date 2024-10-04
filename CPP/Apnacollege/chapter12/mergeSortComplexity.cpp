@@ -85,7 +85,7 @@ int main(){
         cout<<i<<endl;
      }
 
-    //  cout<<arr[0]<<endl;
+    
 
 
 
